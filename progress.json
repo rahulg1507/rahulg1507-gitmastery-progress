@@ -1,0 +1,58 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786086829.294405,
+    "completed_at": 1786086831.043963,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786090748.037599,
+    "completed_at": 1786090751.439781,
+    "comments": [
+      "Answer for What is the commit message of the commit dfd902762f8a00269a278093dde25bcf9f79d817? is not right.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786090806.971858,
+    "completed_at": 1786090809.975422,
+    "comments": [
+      "Answer for What is the commit message of the commit dfd902762f8a00269a278093dde25bcf9f79d817? is not right.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786086276.050572,
+    "completed_at": 1786086277.506542,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786078776.716431,
+    "completed_at": 1786078778.254046,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786079397.566161,
+    "completed_at": 1786079399.040009,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
