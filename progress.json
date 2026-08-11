@@ -126,5 +126,15 @@
       "You are still ignoring many/file22.txt."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786434730.021184,
+    "completed_at": 1786434737.986329,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
