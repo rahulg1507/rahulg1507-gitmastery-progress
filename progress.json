@@ -301,5 +301,14 @@
       "Great job fast-forward merging only 'with-sally'!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1787132813.498499,
+    "completed_at": 1787132816.867786,
+    "comments": [
+      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
+    ],
+    "status": "Incomplete"
   }
 ]
